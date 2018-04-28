@@ -17,6 +17,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 <h4>Add data sets and lists of subjects to the map:</h4>
 5 minutes: Add a database or list to Wikidata Dataset Imports + 2 mins for every one afterwards.
 
-<br>
-<br>
+
+
+
 Image credit: Map image by [See Link](https://thenounproject.com/term/map/658110/), CC BY-SA 3.0
