@@ -27,4 +27,4 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 
 
 
-Image credit: Map image by [See Link](https://thenounproject.com/term/map/658110/), CC BY-SA 3.0
+Image credit: [See Link](https://thenounproject.com/term/map/658110/), CC BY-SA 3.0
