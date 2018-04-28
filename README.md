@@ -11,6 +11,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 
 <h4>Add individual subjects to the map</h4>
 2 minutes: Add a subject to our Google form (we will add the data to Wikidata later).
+
 10 minutes: learn how to add data to Wikidata yourself, allowing you to add data on any subject, +3 minutes for every subject page added to Wikidata.
 
 <h4>Add data sets and lists of subjects to the map:</h4>
