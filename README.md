@@ -7,14 +7,14 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 <h3>Take part</h3>
 
 <h4>Let people know about the project</h4>
-**1 minute:** Promote the project on Twitter
+1 minute: Promote the project on Twitter
 
 <h4>Add individual subjects to the map</h4>
-**2 minutes:** Add a subject to our Google form (we will add the data to Wikidata later).
-**10 minutes:** learn how to add data to Wikidata yourself, allowing you to add data on any subject, +3 minutes for every subject page added to Wikidata.
+2 minutes: Add a subject to our Google form (we will add the data to Wikidata later).
+10 minutes: learn how to add data to Wikidata yourself, allowing you to add data on any subject, +3 minutes for every subject page added to Wikidata.
 
 <h4>Add data sets and lists of subjects to the map:</h4>
-**5 minutes:** Add a database or list to Wikidata Dataset Imports + 2 mins for every one afterwards.
+5 minutes: Add a database or list to Wikidata Dataset Imports + 2 mins for every one afterwards.
 
 
 
