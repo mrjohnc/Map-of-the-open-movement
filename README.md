@@ -18,7 +18,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 
 - **10 minutes**: learn how to add data to Wikidata yourself, allowing you to add data on any subject, +3 minutes for every subject page added to Wikidata.
 
-<h4>Add data sets and lists of subjects to the map:</h4>
+#### Add data sets and lists of subjects to the map:</h4>
 - **5 minutes**: Add a database or list to Wikidata Dataset Imports + 2 mins for every one afterwards.
 
 
