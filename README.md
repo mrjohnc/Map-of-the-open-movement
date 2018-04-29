@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+Map of the open movement
+</p>
+
+<p align="center">
 Creating a map of the open movement to help communities work together
 </p>
 
