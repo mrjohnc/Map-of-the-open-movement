@@ -18,13 +18,12 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 ### Let people know about the project 
 - 1 minute: Promote the project on Twitter (link coming soon)
 
-### Add individual subjects to the map 
-- **2 minutes**: [Add a subject to our Google form](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later).
+### Add information to our survey 
+- **2 minutes**: [Fill out our Google form with information on a single topic (e.g person, organisation, project), list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later).
 
+### Learn how to add data to Wikidata yourself:</h4>
+- **10 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+2 minutes** for every one afterwards.
 - **15 minutes**: learn how to add data to Wikidata yourself, allowing you to add data on any subject, **+3 minutes** for every subject page added to Wikidata. (link coming soon)
-
-### Add data sets and lists of subjects to the map:</h4>
-- **5 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+2 minutes** for every one afterwards.
 
 
 
