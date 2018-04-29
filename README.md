@@ -2,7 +2,7 @@
   <img height="200" src="/logo.png">
 </p>
 
-<p align="center">
+<h3 align="center">
 Map of the open movement
 </p>
 <p align="center">
