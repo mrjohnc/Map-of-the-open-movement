@@ -18,8 +18,8 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 ### Let people know about the project 
 - 1 minute: Promote the project on Twitter (link coming soon)
 
-### Add information to our survey 
-- **2 minutes**: [Fill out our Google form with information on a single topic (e.g person, organisation, project), list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later, submissions spreadsheet [here](https://docs.google.com/spreadsheets/d/1OhX3zJRkCjvLSd3lxGrGUHARmn9lg9Wwus6SWdtRmC8/edit?usp=sharing))
+### Add information through our form 
+- **2 minutes**: [Fill out our form with information on a single topic (e.g person, organisation, project) or a list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later, submissions spreadsheet [here](https://docs.google.com/spreadsheets/d/1OhX3zJRkCjvLSd3lxGrGUHARmn9lg9Wwus6SWdtRmC8/edit?usp=sharing))
 
 ### Learn how to add data to Wikidata yourself:</h4>
 - **10 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+2 minutes** for every one afterwards.
