@@ -6,7 +6,7 @@
 Map of the open movement
 </p>
 <p align="center">
-Creating a map of the open movement to help communities work together
+Mapping the open movement to help communities work together
 </p>
 
 The open movement is it is diverse in geography, language and subjects including open source software, open knowledge, open access publishing, open data, open hardware, open science and open rights. This variety makes it difficult for open organisations to work together and for others to understand it. 
