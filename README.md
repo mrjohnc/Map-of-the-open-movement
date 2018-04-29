@@ -13,7 +13,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 ## Take part 
 
 ### Let people know about the project 
-- 1 minute: Promote the project on Twitter (link coming soon)
+- **1 minute**: Promote the project on Twitter (link coming soon)
 
 ### Add information through our form 
 - **2 minutes**: [Fill out our form with information on a single topic (e.g person, organisation, project) or a list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later, spreadsheet [here](https://docs.google.com/spreadsheets/d/1OhX3zJRkCjvLSd3lxGrGUHARmn9lg9Wwus6SWdtRmC8/edit?usp=sharing)).
