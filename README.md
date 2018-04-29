@@ -6,7 +6,7 @@
 <h5 align="center"><i>Mapping the open movement to help communities work together</i></h5>
 
 
-The open movement is diverse in geography, language and subjects including open source software, open knowledge, open access publishing, open data, open hardware, open science, open rights and government policies promoting openness. This variety makes it difficult for open organisations to work together and for others to understand it. 
+The open movement is diverse in geography, language and subject, it includes open source software, open knowledge, open access publishing, open data, open hardware, open science, open rights and government policies promoting openness. This variety makes it difficult for open organisations to work together and for others to understand it. 
 
 We can help solve these issues by mapping the open movement on Wikidata, a freely editable open source database and sister site to Wikipedia. Having the data hosted on Wikidata will allow it to be visualised and reused by tools like [Wikidata Graph  builder](https://angryloki.github.io/wikidata-graph-builder/) to write and improve Wikipedia articles on open projects, people, organisations and communities. 
 
