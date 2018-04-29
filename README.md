@@ -4,6 +4,7 @@
 
 <h3 align="center">
 Map of the open movement
+</h3>
 </p>
 <p align="center">
 Mapping the open movement to help communities work together
