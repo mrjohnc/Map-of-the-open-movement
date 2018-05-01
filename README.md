@@ -10,6 +10,8 @@ The open movement is diverse in geography, language and subject, it includes ope
 
 We can help solve these issues by mapping the open movement on Wikidata, a freely editable open source database and sister site to Wikipedia. Having the data hosted on Wikidata will allow it to be visualised and reused by tools like [Wikidata Graph  builder](https://angryloki.github.io/wikidata-graph-builder/) to write and improve Wikipedia articles on open projects, people, organisations and communities. 
 
+****
+
 ## Take part 
 
 ### Let people know about the project 
@@ -22,7 +24,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 - **10 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+3 minutes** for every dataset added.
 - **20 minutes**: learn how to add data to Wikidata yourself on any subject, **+5 minutes** for every subject page added to Wikidata. (link coming soon)
 
-
+****
 
 Questions? [Tweet @mrjohnc](https://twitter.com/mrjohnc)
 
