@@ -17,7 +17,7 @@
 - **10 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+3 minutes** for every dataset added.
 - **20 minutes**: learn how to add data to Wikidata yourself on any subject, **+5 minutes** for every subject page added to Wikidata. (link coming soon)
 
-
+****
 
 Questions? [Tweet @mrjohnc](https://twitter.com/mrjohnc)
 
