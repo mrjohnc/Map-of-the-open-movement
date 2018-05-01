@@ -26,4 +26,6 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 
 Questions? [Tweet @mrjohnc](https://twitter.com/mrjohnc)
 
+This project follows the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
 Image credit: [See Link](https://thenounproject.com/term/map/658110/), CC BY-SA 3.0
