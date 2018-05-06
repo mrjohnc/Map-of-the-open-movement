@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="/logo.png">
+  <img height="200" src="/images/logo.png">
 </p>
 
 <h3 align="center">Map of the open movement</h3>
