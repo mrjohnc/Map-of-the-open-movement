@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="bubble"
+   width="811.45526"
+   height="604.12122"
+   version="1.1"
+   id="svg666"
+   sodipodi:docname="Countries with most open access journals in DOAJ.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata672">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs670" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="725"
+     inkscape:window-height="480"
+     id="namedview668"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="0.29511805"
+     inkscape:cx="405.72763"
+     inkscape:cy="302.06061"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg666" />
+  <g
+     class="node"
+     transform="translate(302.24436,335.6043)"
+     id="g8">
+    <title
+       id="title2">Brazil: 1153</title>
+    <circle
+       r="136.12231"
+       style="fill:#3182bd"
+       id="circle4"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text6">Brazil</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(571.47147,335.6043)"
+     id="g16">
+    <title
+       id="title10">Indonesia: 1078</title>
+    <circle
+       r="131.62067"
+       style="fill:#6baed6"
+       id="circle12"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text14">Indonesia</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(440.50788,163.78573)"
+     id="g24">
+    <title
+       id="title18">Colombia: 428</title>
+    <circle
+       r="82.934753"
+       style="fill:#9ecae1"
+       id="circle20"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text22">Colombia</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(294.55731,133.50399)"
+     id="g32">
+    <title
+       id="title26">Poland: 260</title>
+    <circle
+       r="64.639999"
+       style="fill:#c6dbef"
+       id="circle28"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text30">Poland</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(179.55911,182.25439)"
+     id="g40">
+    <title
+       id="title34">Spain: 215</title>
+    <circle
+       r="58.780586"
+       style="fill:#e6550d"
+       id="circle36"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text38">Spain</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(114.3154,281.00571)"
+     id="g48">
+    <title
+       id="title42">Argentina: 210</title>
+    <circle
+       r="58.093071"
+       style="fill:#fd8d3c"
+       id="circle44"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text46">Argentina</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(123.66569,388.94788)"
+     id="g56">
+    <title
+       id="title50">Croatia: 148</title>
+    <circle
+       r="48.769192"
+       style="fill:#fdae6b"
+       id="circle52"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text54">Croatia</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(176.51935,469.25138)"
+     id="g64">
+    <title
+       id="title58">Iran: 131</title>
+    <circle
+       r="45.882843"
+       style="fill:#fdd0a2"
+       id="circle60"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text62">Iran</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(257.90028,512.5589)"
+     id="g72">
+    <title
+       id="title66">France: 125</title>
+    <circle
+       r="44.819778"
+       style="fill:#31a354"
+       id="circle68"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text70">France</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(349.0218,511.93127)"
+     id="g80">
+    <title
+       id="title74">Chile: 125</title>
+    <circle
+       r="44.819778"
+       style="fill:#74c476"
+       id="circle76"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text78">Chile</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(426.64041,467.03923)"
+     id="g88">
+    <title
+       id="title82">Portugal: 117</title>
+    <circle
+       r="43.361832"
+       style="fill:#a1d99b"
+       id="circle84"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text86">Portugal</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(507.88716,499.41573)"
+     id="g96">
+    <title
+       id="title90">Egypt: 113</title>
+    <circle
+       r="42.614159"
+       style="fill:#c7e9c0"
+       id="circle92"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text94">Egypt</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(593.45318,509.36891)"
+     id="g104">
+    <title
+       id="title98">Italy: 110</title>
+    <circle
+       r="42.044678"
+       style="fill:#756bb1"
+       id="circle100"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text102">Italy</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(672.21471,477.93654)"
+     id="g112">
+    <title
+       id="title106">Turkey: 106</title>
+    <circle
+       r="41.273151"
+       style="fill:#9e9ac8"
+       id="circle108"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text110">Turkey</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(723.54525,415.00822)"
+     id="g120">
+    <title
+       id="title114">Czech Republic: 92</title>
+    <circle
+       r="38.451084"
+       style="fill:#bcbddc"
+       id="circle116"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text118">Czech Rep</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(742.77934,339.23452)"
+     id="g128">
+    <title
+       id="title122">Mexico: 91</title>
+    <circle
+       r="38.241543"
+       style="fill:#dadaeb"
+       id="circle124"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text126">Mexico</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(726.04659,264.17522)"
+     id="g136">
+    <title
+       id="title130">Romania: 86</title>
+    <circle
+       r="37.176109"
+       style="fill:#636363"
+       id="circle132"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text134">Romania</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(679.66602,207.31488)"
+     id="g144">
+    <title
+       id="title138">Ecuador: 75</title>
+    <circle
+       r="34.717251"
+       style="fill:#969696"
+       id="circle140"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text142">Ecuador</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(617.86547,176.0503)"
+     id="g152">
+    <title
+       id="title146">Germany: 68</title>
+    <circle
+       r="33.057434"
+       style="fill:#bdbdbd"
+       id="circle148"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text150">Germany</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(556.11949,151.73688)"
+     id="g160">
+    <title
+       id="title154">India: 63</title>
+    <circle
+       r="31.818886"
+       style="fill:#d9d9d9"
+       id="circle156"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text158">India</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(531.33467,92.066757)"
+     id="g168">
+    <title
+       id="title162">Costa Rica: 61</title>
+    <circle
+       r="31.30975"
+       style="fill:#3182bd"
+       id="circle164"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text166">Costa R</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(479.93227,56.950387)"
+     id="g176">
+    <title
+       id="title170">Serbia: 54</title>
+    <circle
+       r="29.458563"
+       style="fill:#6baed6"
+       id="circle172"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text174">Serbia</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(420.00527,52.047737)"
+     id="g184">
+    <title
+       id="title178">United States of America: 53</title>
+    <circle
+       r="29.184525"
+       style="fill:#9ecae1"
+       id="circle180"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text182">United</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(361.78882,65.949097)"
+     id="g192">
+    <title
+       id="title186">Canada: 53</title>
+    <circle
+       r="29.184525"
+       style="fill:#c6dbef"
+       id="circle188"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text190">Canada</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(308.25322,39.184527)"
+     id="g200">
+    <title
+       id="title194">Moldova: 53</title>
+    <circle
+       r="29.184525"
+       style="fill:#e6550d"
+       id="circle196"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text198">Moldova</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(251.55145,50.691917)"
+     id="g208">
+    <title
+       id="title202">Netherlands: 46</title>
+    <circle
+       r="27.189024"
+       style="fill:#fd8d3c"
+       id="circle204"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text206">Nether</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(213.44509,89.869367)"
+     id="g216">
+    <title
+       id="title210">Bulgaria: 42</title>
+    <circle
+       r="25.980011"
+       style="fill:#fdae6b"
+       id="circle212"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text214">Bulgar</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(160.99331,98.350327)"
+     id="g224">
+    <title
+       id="title218">Cuba: 41</title>
+    <circle
+       r="25.668861"
+       style="fill:#fdd0a2"
+       id="circle220"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text222">Cuba</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(115.4226,125.06097)"
+     id="g232">
+    <title
+       id="title226">Russia: 41</title>
+    <circle
+       r="25.668861"
+       style="fill:#31a354"
+       id="circle228"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text230">Russia</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(94.422169,173.18534)"
+     id="g240">
+    <title
+       id="title234">Greece: 40</title>
+    <circle
+       r="25.353895"
+       style="fill:#74c476"
+       id="circle236"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text238">Greece</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(63.596378,214.0941)"
+     id="g248">
+    <title
+       id="title242">United Kingdom: 37</title>
+    <circle
+       r="24.384596"
+       style="fill:#a1d99b"
+       id="circle244"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text246">United</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(34.859407,254.91501)"
+     id="g256">
+    <title
+       id="title250">Peru: 36</title>
+    <circle
+       r="24.052816"
+       style="fill:#c7e9c0"
+       id="circle252"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text254">Peru</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(34.052816,304.49821)"
+     id="g264">
+    <title
+       id="title258">Malaysia: 36</title>
+    <circle
+       r="24.052816"
+       style="fill:#756bb1"
+       id="circle260"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text262">Malays</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(61.507847,344.97799)"
+     id="g272">
+    <title
+       id="title266">Lithuania: 34</title>
+    <circle
+       r="23.375135"
+       style="fill:#9e9ac8"
+       id="circle268"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text270">Lithu</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(50.430384,391.56724)"
+     id="g280">
+    <title
+       id="title274">Norway: 33</title>
+    <circle
+       r="23.028818"
+       style="fill:#bcbddc"
+       id="circle276"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text278">Norwa</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(67.780151,434.67701)"
+     id="g288">
+    <title
+       id="title282">People's Republic of China: 30</title>
+    <circle
+       r="21.957117"
+       style="fill:#dadaeb"
+       id="circle284"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text286">Peopl</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(105.59643,457.69662)"
+     id="g296">
+    <title
+       id="title290">Pakistan: 27</title>
+    <circle
+       r="20.830351"
+       style="fill:#636363"
+       id="circle292"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text294">Pakis</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(115.70339,499.2403)"
+     id="g304">
+    <title
+       id="title298">Ukraine: 26</title>
+    <circle
+       r="20.440964"
+       style="fill:#969696"
+       id="circle300"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text302">Ukrai</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(145.22374,528.49993)"
+     id="g312">
+    <title
+       id="title306">Slovenia: 24</title>
+    <circle
+       r="19.639042"
+       style="fill:#bdbdbd"
+       id="circle308"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text310">Slov</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(184.99491,535.30233)"
+     id="g320">
+    <title
+       id="title314">Estonia: 23</title>
+    <circle
+       r="19.225542"
+       style="fill:#d9d9d9"
+       id="circle316"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text318">Esto</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(214.70364,560.69253)"
+     id="g328">
+    <title
+       id="title322">Iraq: 21</title>
+    <circle
+       r="18.370642"
+       style="fill:#3182bd"
+       id="circle324"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text326">Iraq</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(249.16023,576.19331)"
+     id="g336">
+    <title
+       id="title330">Uruguay: 20</title>
+    <circle
+       r="17.927912"
+       style="fill:#6baed6"
+       id="circle332"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text334">Urug</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(284.47159,569.49662)"
+     id="g344">
+    <title
+       id="title338">South Korea: 17</title>
+    <circle
+       r="16.528717"
+       style="fill:#9ecae1"
+       id="circle340"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text342">Sout</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(318.92914,567.08895)"
+     id="g352">
+    <title
+       id="title346">Slovakia: 17</title>
+    <circle
+       r="16.528717"
+       style="fill:#c6dbef"
+       id="circle348"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text350">Slov</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(352.22893,574.18783)"
+     id="g360">
+    <title
+       id="title354">South Africa: 16</title>
+    <circle
+       r="16.035212"
+       style="fill:#e6550d"
+       id="circle356"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text358">Sout</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(383.43002,563.30261)"
+     id="g368">
+    <title
+       id="title362">Hungary: 15</title>
+    <circle
+       r="15.526027"
+       style="fill:#fd8d3c"
+       id="circle364"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text366">Hun</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(404.74624,538.72169)"
+     id="g376">
+    <title
+       id="title370">Venezuela: 15</title>
+    <circle
+       r="15.526027"
+       style="fill:#fdae6b"
+       id="circle372"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text374">Ven</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(435.02963,526.8255)"
+     id="g384">
+    <title
+       id="title378">Republic of Macedonia: 15</title>
+    <circle
+       r="15.526027"
+       style="fill:#fdd0a2"
+       id="circle380"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text382">Rep</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(464.43528,539.47182)"
+     id="g392">
+    <title
+       id="title386">Algeria: 14</title>
+    <circle
+       r="14.999566"
+       style="fill:#31a354"
+       id="circle388"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text390">Alg</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(491.16934,556.09968)"
+     id="g400">
+    <title
+       id="title394">Thailand: 14</title>
+    <circle
+       r="14.999566"
+       style="fill:#74c476"
+       id="circle396"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text398">Tha</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(522.64795,556.64051)"
+     id="g408">
+    <title
+       id="title402">Bosnia and Herzegovina: 14</title>
+    <circle
+       r="14.999566"
+       style="fill:#a1d99b"
+       id="circle404"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text406">Bos</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(553.0611,550.96793)"
+     id="g416">
+    <title
+       id="title410">Austria: 13</title>
+    <circle
+       r="14.453944"
+       style="fill:#c7e9c0"
+       id="circle412"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text414">Aus</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(579.36349,565.02898)"
+     id="g424">
+    <title
+       id="title418">Montenegro: 12</title>
+    <circle
+       r="13.8869"
+       style="fill:#756bb1"
+       id="circle420"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text422">Mon</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(608.02079,564.29439)"
+     id="g432">
+    <title
+       id="title426">Denmark: 11</title>
+    <circle
+       r="13.295694"
+       style="fill:#9e9ac8"
+       id="circle428"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text430">Den</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(632.53892,550.61608)"
+     id="g440">
+    <title
+       id="title434">Bangladesh: 11</title>
+    <circle
+       r="13.295694"
+       style="fill:#bcbddc"
+       id="circle436"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text438">Ban</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(647.23622,527.4242)"
+     id="g448">
+    <title
+       id="title442">Australia: 10</title>
+    <circle
+       r="12.676948"
+       style="fill:#dadaeb"
+       id="circle444"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text446">Aus</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(672.88343,532.71614)"
+     id="g456">
+    <title
+       id="title450">Finland: 9</title>
+    <circle
+       r="12.026408"
+       style="fill:#636363"
+       id="circle452"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text454">Fin</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(697.64258,526.46154)"
+     id="g464">
+    <title
+       id="title458">Belgium: 9</title>
+    <circle
+       r="12.026408"
+       style="fill:#969696"
+       id="circle460"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text462">Bel</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(716.87656,509.66304)"
+     id="g472">
+    <title
+       id="title466">Sri Lanka: 9</title>
+    <circle
+       r="12.026408"
+       style="fill:#bdbdbd"
+       id="circle468"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text470">Sri</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(726.40607,485.97077)"
+     id="g480">
+    <title
+       id="title474">Ireland: 9</title>
+    <circle
+       r="12.026408"
+       style="fill:#d9d9d9"
+       id="circle476"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text478">Ire</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(739.94058,464.31546)"
+     id="g488">
+    <title
+       id="title482">Philippines: 9</title>
+    <circle
+       r="12.026408"
+       style="fill:#3182bd"
+       id="circle484"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text486">Phi</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(760.57653,450.47214)"
+     id="g496">
+    <title
+       id="title490">Morocco: 8</title>
+    <circle
+       r="11.338607"
+       style="fill:#6baed6"
+       id="circle492"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text494">Mo</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(772.70603,429.57607)"
+     id="g504">
+    <title
+       id="title498">Belarus: 8</title>
+    <circle
+       r="11.338607"
+       style="fill:#9ecae1"
+       id="circle500"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text502">Be</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(773.30527,406.15471)"
+     id="g512">
+    <title
+       id="title506">Taiwan: 7</title>
+    <circle
+       r="10.606296"
+       style="fill:#c6dbef"
+       id="circle508"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text510">Ta</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(764.41352,385.27224)"
+     id="g520">
+    <title
+       id="title514">Switzerland: 7</title>
+    <circle
+       r="10.606296"
+       style="fill:#e6550d"
+       id="circle516"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text518">Sw</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(780.91702,370.86113)"
+     id="g528">
+    <title
+       id="title522">Paraguay: 6</title>
+    <circle
+       r="9.819521"
+       style="fill:#fd8d3c"
+       id="circle524"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text526">Pa</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(790.62475,352.10085)"
+     id="g536">
+    <title
+       id="title530">Kyrgyzstan: 6</title>
+    <circle
+       r="9.819521"
+       style="fill:#fdae6b"
+       id="circle532"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text534">Ky</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(791.63576,331.00189)"
+     id="g544">
+    <title
+       id="title538">Latvia: 6</title>
+    <circle
+       r="9.819521"
+       style="fill:#fdd0a2"
+       id="circle540"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text542">La</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(783.76628,311.39935)"
+     id="g552">
+    <title
+       id="title546">Iceland: 6</title>
+    <circle
+       r="9.819521"
+       style="fill:#31a354"
+       id="circle548"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text550">Ic</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(768.59963,297.95508)"
+     id="g560">
+    <title
+       id="title554">Sweden: 5</title>
+    <circle
+       r="8.9639559"
+       style="fill:#74c476"
+       id="circle556"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text558">Sw</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(770.11898,279.552)"
+     id="g568">
+    <title
+       id="title562">Cyprus: 4</title>
+    <circle
+       r="8.0176058"
+       style="fill:#a1d99b"
+       id="circle564"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text566">Cy</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(772.68352,262.22138)"
+     id="g576">
+    <title
+       id="title570">New Zealand: 4</title>
+    <circle
+       r="8.0176058"
+       style="fill:#c7e9c0"
+       id="circle572"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text574">Ne</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(768.06016,246.43948)"
+     id="g584">
+    <title
+       id="title578">Cameroon: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#756bb1"
+       id="circle580"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text582">C</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(759.78119,233.48853)"
+     id="g592">
+    <title
+       id="title586">Oman: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#9e9ac8"
+       id="circle588"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text590">O</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(747.66973,224.02381)"
+     id="g600">
+    <title
+       id="title594">Kazakhstan: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#bcbddc"
+       id="circle596"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text598">K</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(733.10173,219.12057)"
+     id="g608">
+    <title
+       id="title602">Nicaragua: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#dadaeb"
+       id="circle604"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text606">N</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(722.80909,207.70435)"
+     id="g616">
+    <title
+       id="title610">Kingdom of Yugoslavia: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#636363"
+       id="circle612"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text614">K</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(720.20765,192.55506)"
+     id="g624">
+    <title
+       id="title618">Kingdom of Serbia: 3</title>
+    <circle
+       r="6.94345"
+       style="fill:#969696"
+       id="circle620"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text622">K</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(712.19768,180.95496)"
+     id="g632">
+    <title
+       id="title626">Guatemala: 2</title>
+    <circle
+       r="5.6693034"
+       style="fill:#bdbdbd"
+       id="circle628"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text630">G</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(702.69474,172.34586)"
+     id="g640">
+    <title
+       id="title634">Vietnam: 2</title>
+    <circle
+       r="5.6693034"
+       style="fill:#d9d9d9"
+       id="circle636"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text638">V</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(691.03201,167.01639)"
+     id="g648">
+    <title
+       id="title642">Nepal: 2</title>
+    <circle
+       r="5.6693034"
+       style="fill:#3182bd"
+       id="circle644"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text646">N</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(678.3033,165.46638)"
+     id="g656">
+    <title
+       id="title650">Libya: 2</title>
+    <circle
+       r="5.6693034"
+       style="fill:#6baed6"
+       id="circle652"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text654">L</text>
+  </g>
+  <g
+     class="node"
+     transform="translate(667.69172,168.92902)"
+     id="g664">
+    <title
+       id="title658">Kenya: 1</title>
+    <circle
+       r="4.0088029"
+       style="fill:#9ecae1"
+       id="circle660"
+       cx="0"
+       cy="0" />
+    <text
+       dy="0.30000001em"
+       style="text-anchor:middle"
+       id="text662">K</text>
+  </g>
+</svg>
