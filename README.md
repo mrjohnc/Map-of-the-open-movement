@@ -15,8 +15,6 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 </p>
 <h5 align="center"><i>Countries with most open access journals</i></h5>
 
-<iframe width="100%" height="520" frameborder="0" src="https://mrjohncummings.carto.com/viz/bf66950b-e6fd-4cea-94e5-c568807c964f/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 ****
 
 ## Take part 
