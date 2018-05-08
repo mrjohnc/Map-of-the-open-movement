@@ -8,7 +8,7 @@
 
 The open movement is diverse in geography, language and subject, it includes open source software, open knowledge, open access publishing, open data, open hardware, open science, open rights and government policies promoting openness. This variety makes it difficult for open organisations to work together and for others to understand the movement.
 
-We can help solve these issues by mapping the open movement on Wikidata, a freely editable open source database and sister site to Wikipedia. Having the data hosted on Wikidata will make it more useful, allow it to be combined with data from other sources, queried, visualised and reused by tools like [Wikidata Graph  builder](https://angryloki.github.io/wikidata-graph-builder/). It will also provide a rich resource to write and improve Wikipedia articles on open projects, people, organisations and communities.
+We can help solve these issues by mapping the open movement on Wikidata, a freely editable open source database and sister site to Wikipedia. Having the data hosted on Wikidata will make it more useful, allow it to be combined with data from other sources, queried, visualised and reused. It will also provide a rich resource to write and improve Wikipedia articles on open projects, people, organisations and communities.
 
 <p align="center">
 <a href="https://mrjohncummings.carto.com/viz/4c3b471d-0e34-4406-afba-4e130d4656e8/public_map"><img height="400" src="/images/Number of journals in DOAJ by country.jpg"></a>
