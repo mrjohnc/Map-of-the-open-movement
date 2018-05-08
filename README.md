@@ -37,3 +37,4 @@ Questions? [Tweet @mrjohnc](https://twitter.com/mrjohnc)
 This project follows the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 Image credit: [See Link](https://thenounproject.com/term/map/658110/), CC BY-SA 3.0
+Map: [OpenStreetMap](http://openstreetmap.org)
