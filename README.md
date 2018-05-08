@@ -14,7 +14,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 <a href="https://mrjohncummings.carto.com/viz/4c3b471d-0e34-4406-afba-4e130d4656e8/public_map"><img height="400" src="/images/Number of journals in DOAJ by country.jpg"></a>
 </p>
 
-<a href="https://mrjohncummings.carto.com/viz/4c3b471d-0e34-4406-afba-4e130d4656e8/public_map"><h5 align="center"><i>Number of publications in the Directory of Open Access Journals by country</i></h5>
+<a href="https://mrjohncummings.carto.com/viz/4c3b471d-0e34-4406-afba-4e130d4656e8/public_map"><h5 align="center"><i>Number of publications in the Directory of Open Access Journals by country</i></h5></a>
 
 ****
 
