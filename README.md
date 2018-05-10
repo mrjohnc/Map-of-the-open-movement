@@ -27,7 +27,7 @@ We can help solve these issues by mapping the open movement on Wikidata, a freel
 - **1 minute**: [Promote the project on Twitter](https://twitter.com/mrjohnc/status/993943192503574528)
 
 ### Add information through our form 
-- **2 minutes**: [Fill out our form with information on a single topic (e.g person, organisation, project) or a list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later, spreadsheet [here](https://docs.google.com/spreadsheets/d/1OhX3zJRkCjvLSd3lxGrGUHARmn9lg9Wwus6SWdtRmC8/edit?usp=sharing)).
+- **2 minutes**: [Fill out our form with information on a single topic (e.g person, organisation, project) or a list or database](https://goo.gl/forms/2otr42KLxQH9tZJg1) (we will add the data to Wikidata later, spreadsheet [here](https://docs.google.com/forms/d/e/1FAIpQLSfZdP7JLJki9hT_b5Dew2JLNSnmXxKgi4Kg04QX-cdU8EHadw/viewanalytics)).
 
 ### Learn how to add data to Wikidata yourself:</h4>
 - **10 minutes**: [Add a database or list to Wikidata Dataset Imports](https://www.wikidata.org/wiki/Wikidata:Dataset_Imports) so others can import it **+3 minutes** for every dataset added.
